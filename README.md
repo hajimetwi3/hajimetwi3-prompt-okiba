@@ -1,11 +1,15 @@
-# hajimetwi3 prompt okiba
-Tsui Hajime prompt box
+# hajimetwi3 prompt okiba  
+Tsui Hajime prompt box  
 
-> Welcome! This is Tsui Hajime's prompt box. 📦
+> Welcome! This is Tsui Hajime's prompt box. 📦  
 
-## 📁 Contents
+## 📁 Contents  
 
-[Real time Kaigan](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/realtime_kaigan.txt)
+### Demo ( one-shot demo prompt )   
+[Real time Kaigan](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/realtime_kaigan.txt)  
 
-## 📝 License
-[MIT License](LICENSE) 
+### Skills?  
+
+## 📝 License  
+[MIT License](LICENSE)  
+
