@@ -6,8 +6,8 @@ Tsui Hajime prompt box
 ## 📁 Contents  
 
 ### Demo ( one-shot demo prompt )   
-[Real time Kaigan](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/realtime_kaigan.txt)   
-[防災用災害対策](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/bousai1.txt)  
+[Real-Time Coastal Simulator](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/realtime_kaigan.txt)   
+[Real-Time Tsunami Inundation Simulator for Disaster Prevention](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/bousai1.txt)  
 
 ### Skills?  
 
