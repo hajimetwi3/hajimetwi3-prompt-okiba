@@ -17,6 +17,11 @@ Tsui Hajime prompt box
 
 ### Skills?  
 
+## Disclaimer
+
+- This service is provided as-is with no warranty of operation. The author bears no responsibility for any damages arising from its use. Use at your own risk.
+
+
 ## 📝 License  
 [MIT License](LICENSE)  
 
