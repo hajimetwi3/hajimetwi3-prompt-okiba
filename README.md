@@ -10,7 +10,10 @@ Tsui Hajime prompt box
   - [demo1](https://x.com/hajimetwi3/status/2084975863712666005),  [demo2](https://x.com/hajimetwi3/status/2080773049574658462), [demo3](https://x.com/hajimetwi3/status/2084976526903443546) 
 
 - [Real-Time Tsunami Inundation Simulator for Disaster Prevention](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/bousai1.txt)
-  - [demo](https://x.com/hajimetwi3/status/2081389354778603618)  
+  - [demo](https://x.com/hajimetwi3/status/2081389354778603618)
+
+- [Tree](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/tree.txt)
+  - [demo](https://x.com/hajimetwi3/status/2088115038439846177)  
 
 ### Skills?  
 
