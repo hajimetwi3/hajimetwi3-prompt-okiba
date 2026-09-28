@@ -9,7 +9,7 @@ Tsui Hajime prompt box
 - [Real-Time Coastal Simulator](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/realtime_kaigan.txt)
   - [demo1](https://x.com/hajimetwi3/status/2084975863712666005),  [demo2](https://x.com/hajimetwi3/status/2080773049574658462), [demo3](https://x.com/hajimetwi3/status/2084976526903443546)   
   
-- [Real-Time Coastal Simulator 2](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/realtime_kaigan_subagent.txt)  
+- [Real-Time Coastal Simulator(using sub-agents)](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/realtime_kaigan_subagent.txt)  
   - [demo1](https://x.com/hajimetwi3/status/2104381179151753464),  [demo2](https://x.com/hajimetwi3/status/2104435669716365671)      
   
 - [Real-Time Tsunami Inundation Simulator for Disaster Prevention](https://github.com/hajimetwi3/hajimetwi3-prompt-okiba/blob/main/contents/demo/bousai1.txt)
